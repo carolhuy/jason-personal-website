@@ -6,7 +6,7 @@ function Navbar() {
     <>
 <nav>
 <Link to='/'>    
-    home
+    home testing
     </Link>
 
     <Link to='/about'>    
