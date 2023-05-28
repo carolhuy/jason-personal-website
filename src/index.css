@@ -1,5 +1,3 @@
-@font-face {
-    font-family: 'CormonrantGaramond';
-    src: local('CormonrantGaramond'),url(./components/fonts/CormorantGaramond-Regular.ttf) format('truetype');
-    font-weight: lighter;
-  }
+body,html{
+  font-family: 'Cormorant Garamond', serif;
+}
