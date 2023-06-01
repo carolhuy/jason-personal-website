@@ -1,10 +1,13 @@
 import React from 'react';
-import Navbar from './Navbar'
+import './Home.css'
 
+const title =  {
+  margin:'10rem'
+}
 function Home() {
   return (
     <div>
-        <h1>home</h1>
+        <h1 style={{title}}>Jason Tuan Vu</h1>
     </div>
   )
 }
